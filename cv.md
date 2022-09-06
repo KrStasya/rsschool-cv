@@ -5,11 +5,14 @@
 
 
 ## Contact information:
-    * Location: Belarus
-    * Phone: +375 29 519-31-61
-    * Email: [anastasiya.krautsova@gmail.com](mailto:anastasiya.krautsova@gmail.com)
-    * GitHub: [KrStasya](https://github.com/KrStasya)
-***********************   
+* Location: Belarus
+* Phone: +375 29 519-31-61
+* Email: [anastasiya.krautsova@gmail.com](mailto:anastasiya.krautsova@gmail.com)
+* GitHub: [KrStasya](https://github.com/KrStasya)
+
+
+***********************  
+
 ## About me:
 
 
@@ -19,12 +22,12 @@ _P.s. I need to rewrite later why I'm cool and everyone needs me_
 *********************** 
 
 ## Skills and Proficiency:
-    * HTML/CSS
-    * JavaScript 
-    * React JS, Redux 
-    * Version control: Git (remote service GitHub)
-    * AXIOS/Rest API
-    * Unit Tests
+* HTML/CSS
+* JavaScript 
+* React JS, Redux 
+* Version control: Git (remote service GitHub)
+* AXIOS/Rest API
+* Unit Tests
 
 ***********************  
 
