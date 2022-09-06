@@ -1,0 +1,40 @@
+body {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: normal;
+    color: #102746;;
+    background: burlywood;
+    }  
+.h1, h2, section, div, a {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline; 
+} 
+.wrapper {
+    max-width: 1264px;
+    margin: 0 auto;
+    background:chocolate;
+  }
+.title_description, .title_skills, .title_projects, .title_courses, .title_languages, .title_contact {
+    font-weight: 350;
+    font-size: 25px;
+    line-height: 42px;
+}
+.contact_item, .skill_item, .courses_item, .languages_item {
+    list-style-type: none;
+} 
+.intro_title {
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 42px;
+}
+.intro_text {
+    font-weight: 350;
+    font-size: 35px;
+    line-height: 42px;
+}
+
